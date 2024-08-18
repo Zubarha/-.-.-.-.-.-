@@ -32,3 +32,12 @@ main{
     transition: 1;
     text-decoration: none;
 }
+header a{
+     background-color: #324052; 
+    text-decoration: none; 
+    color: white;
+}
+a:hover {
+    background-color: #3b3013;
+    color: #30ed1f; 
+}
